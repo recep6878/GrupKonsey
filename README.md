@@ -1,4 +1,10 @@
 # GrupKonsey<br>
+Üyeler:<br>
+Celil Yavuz<br>
+Burak Yüksel<br>
+Davut Gökdemir<br>
+Kussih Musah <br>
+Recep Gül<br>
 <br>
  <p>Bu proje Web Terminolojisinin önemini konu alan ve bununla beraber bazı web terminoloji kavramlarının açıklanmasını sağlayan bir yapıda oluşturulmuştur. Web terminolojisinin önemi index.html sayfasında açıklanmış ve terminoloji kavramları hakkındaki bilgiler html klasörünün içerisindeki sayfalarda mevcuttur. <br>
 
